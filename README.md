@@ -2,7 +2,7 @@
 
 Brief description of your project and what it does.
 
-<img src="https://www.bmw-m.com/content/dam/bmw/marketBMW_M/www_bmw-m_com/topics/magazine-article-pool/2020/bmw-m3-e36/bmw-e36-m3-gt-micro-story.jpg" alt="Alt text" width="300" />
+<img src="https://cdn.sanity.io/images/c8ihu5xk/production/f6bed0f32b1c21b917bcadd9ef59432730e74a0c-1170x780.jpg?fm=webp&w=2000&q=80" alt="Alt text" width="400" />
 
 
 
