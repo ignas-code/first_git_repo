@@ -2,6 +2,9 @@
 
 Brief description of your project and what it does.
 
+![Sample Image](https://www.bmw-m.com/content/dam/bmw/marketBMW_M/www_bmw-m_com/topics/magazine-article-pool/2020/bmw-m3-e36/bmw-e36-m3-gt-micro-story.jpg)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
