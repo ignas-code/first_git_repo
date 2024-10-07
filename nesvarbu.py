@@ -1,0 +1,1 @@
+#as pridejau savo eilute ka man reikia
