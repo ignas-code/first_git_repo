@@ -36,3 +36,15 @@ cd yourproject
 
 # Install dependencies
 pip install -r requirements.txt
+
+## Contact
+
+Feel free to reach out for any inquiries or feedback regarding the project.
+
+- **Name**: Jane Doe
+- **Email**: jane.doe@example.com
+- **GitHub**: [janedoe](https://github.com/janedoe)
+- **LinkedIn**: [linkedin.com/in/janedoe](https://linkedin.com/in/janedoe)
+- **Twitter**: [@janedoe](https://twitter.com/janedoe)
+
+I welcome contributions, suggestions, and questions!
