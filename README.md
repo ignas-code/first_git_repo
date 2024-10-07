@@ -2,6 +2,11 @@
 
 Brief description of your project and what it does.
 
+<img src="https://cdn.sanity.io/images/c8ihu5xk/production/f6bed0f32b1c21b917bcadd9ef59432730e74a0c-1170x780.jpg?fm=webp&w=2000&q=80" alt="Alt text" width="400" />
+
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
