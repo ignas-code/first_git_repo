@@ -1,1 +1,1 @@
-#as pridejau savo eilute ka man reikia 22
+#pridejau eilute1
