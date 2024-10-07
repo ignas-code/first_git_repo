@@ -1,4 +1,4 @@
-# Project Title
+# First Git Repo
 
 Brief description of your project and what it does.
 
